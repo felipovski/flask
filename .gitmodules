@@ -1,0 +1,3 @@
+[submodule "flask-tutorial"]
+	path = flask-tutorial
+	url = https://github.com/felipovski/flask.git
